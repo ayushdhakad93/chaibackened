@@ -1,0 +1,19 @@
+{
+  "name": "chaibackened",
+  "version": "1.0.0",
+  "description": "a basic app to diploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "ayush dhakad",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
